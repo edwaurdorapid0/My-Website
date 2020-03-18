@@ -1,0 +1,27 @@
+body {
+  background-color:#d1f5d3;
+}
+hr {
+  border-style: none;
+  border-top-style: dotted ;
+  border-color: grey;
+  border-width: 5px;
+  width: 100%;
+}
+h1 {
+color: rgba(0, 59, 255, 0.87);
+    background-color: #0be0e0;
+    font-size: 50px;
+    text-align: center;
+    margin-left: 10%;
+    font-weight: bold;
+    width: 400px;
+    border-radius: 15px;
+    color: white;
+    -webkit-text-stroke-width: 2px;
+    -webkit-text-stroke-color: black;
+
+}
+h3 {
+  color: #084177;
+}
